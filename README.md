@@ -1,5 +1,5 @@
 
-I have worked in software development environments since 1998. Tools and processes have played a big part in my working life, and I have seen cases where work is hindered by poor tools and workflows, and also thankfully much more positive cases some of which I have helped bring about. 
+I have worked in software development and IT consulting contexts since 1998. Tools and processes have played a big part in my working life, and I have seen cases where work is hindered by poor tools and workflows, and also thankfully much more positive cases some of which I have helped bring about. 
 
 Key Skills and Interests:
 - Atlassian tools (Atlassian Certified Expert)
