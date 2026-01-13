@@ -1,4 +1,14 @@
-## Hi there 👋
+
+I have worked in software development environments since 1998. Tools and processes have played a big part in my working life, and I have seen cases where work is hindered by poor tools and workflows, and also thankfully much more positive cases some of which I have helped bring about. 
+
+Key Skills and Interests:
+- Atlassian tools (Atlassian Certified Expert)
+- Git hosting solutions including GitHub, GitLab and Bitbucket
+- AI
+- DevOps
+- Linux and Open Source
+- Agile
+- Software Learning and Training
 
 <!--
 **parmour/parmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
